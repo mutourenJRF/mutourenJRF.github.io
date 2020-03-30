@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390b99b5-30ed-430c-ba1f-5afd0acc27cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-03-30-flink 安装部署.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-30-flink 安装部署.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-30-flink 安装部署.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,14 +106,34 @@
       <option name="presentableId" value="Default" />
       <updated>1578645889287</updated>
       <workItem from="1578645893198" duration="1291000" />
-      <workItem from="1585534698415" duration="3553000" />
+      <workItem from="1585534698415" duration="3767000" />
     </task>
+    <task id="LOCAL-00001" summary="flink 安装部署">
+      <created>1585538284406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585538284406</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="flink 安装部署" />
+    <option name="LAST_COMMIT_MESSAGE" value="flink 安装部署" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1585538282825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585538282825" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585538335217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585538335217" />
     <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1585535043790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
