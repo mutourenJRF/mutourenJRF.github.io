@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390b99b5-30ed-430c-ba1f-5afd0acc27cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-03-30-flink 状态管理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/flink/flink-stat-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/flink/flink-stat-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/flink/flink-stat-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/flink/flink-stat-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/flink/flink-stat-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/flink/flink-stat-6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-03-30-flink 安装部署.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-30-flink 安装部署.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-30-flink 状态管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-30-flink 状态管理.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +32,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578647186494" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basic" />
+    <property name="last_opened_file_path" value="D:/ggit/flink-demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -116,7 +110,9 @@
       <option name="presentableId" value="Default" />
       <updated>1578645889287</updated>
       <workItem from="1578645893198" duration="1291000" />
-      <workItem from="1585534698415" duration="9308000" />
+      <workItem from="1585534698415" duration="10234000" />
+      <workItem from="1585554873804" duration="27000" />
+      <workItem from="1585556787972" duration="1350000" />
     </task>
     <task id="LOCAL-00001" summary="flink 安装部署">
       <created>1585538284406</created>
@@ -153,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585540638899</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="flink 安装部署">
+      <created>1585552564068</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585552564068</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,18 +167,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="flink 安装部署" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1585540637849">
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1585552562257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585540637849" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585549881477">
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585552562257" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585557066273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585549881477" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585538782036">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585557066273" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585552573679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585538782036" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585552573679" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585554876321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585554876321" />
     <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1585535043790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
