@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390b99b5-30ed-430c-ba1f-5afd0acc27cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-04-14-java jvm虚拟机内存管理.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-30-flink 安装部署.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-30-flink 安装部署.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-30-flink 状态管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-30-flink 状态管理.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578647186494" />
-    <property name="last_opened_file_path" value="D:/ggit/flink-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -41,11 +40,11 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GitHub\mutourenJRF.github.io\assets\images\flink" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\GitHub\mutourenJRF.github.io\_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\mutourenJRF.github.io\assets\images\flink" />
     </key>
   </component>
   <component name="RunManager">
@@ -112,7 +111,9 @@
       <workItem from="1578645893198" duration="1291000" />
       <workItem from="1585534698415" duration="10234000" />
       <workItem from="1585554873804" duration="27000" />
-      <workItem from="1585556787972" duration="1350000" />
+      <workItem from="1585556787972" duration="3203000" />
+      <workItem from="1585706162849" duration="625000" />
+      <workItem from="1586829451649" duration="2843000" />
     </task>
     <task id="LOCAL-00001" summary="flink 安装部署">
       <created>1585538284406</created>
@@ -156,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585552564068</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="flink 状态管理">
+      <created>1585560904184</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585560904184</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,21 +172,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flink 安装部署" />
-    <option name="LAST_COMMIT_MESSAGE" value="flink 安装部署" />
+    <MESSAGE value="flink 状态管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="flink 状态管理" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1585552562257">
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1585560901235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585552562257" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585557066273">
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585560901235" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585709766134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585557066273" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585552573679">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585709766134" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585560910639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585552573679" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585560910639" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585554876321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
