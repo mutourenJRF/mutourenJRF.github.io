@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390b99b5-30ed-430c-ba1f-5afd0acc27cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-04-14-java jvm虚拟机内存管理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-04-14-java 多线程并发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-04-14-java 设计模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-04-15-mysql 数据库.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-04-15-多线程.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-14-java jvm虚拟机内存管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-14-java jvm虚拟机内存管理.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +117,7 @@
       <workItem from="1585554873804" duration="27000" />
       <workItem from="1585556787972" duration="3203000" />
       <workItem from="1585706162849" duration="625000" />
-      <workItem from="1586829451649" duration="2843000" />
+      <workItem from="1586829451649" duration="18357000" />
     </task>
     <task id="LOCAL-00001" summary="flink 安装部署">
       <created>1585538284406</created>
@@ -164,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585560904184</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="jvm内存管理">
+      <created>1586832318011</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586832318011</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,21 +184,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flink 安装部署" />
     <MESSAGE value="flink 状态管理" />
-    <option name="LAST_COMMIT_MESSAGE" value="flink 状态管理" />
+    <MESSAGE value="jvm内存管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="jvm内存管理" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1585560901235">
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1586832316028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585560901235" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585709766134">
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586832316028" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586919704980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585709766134" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585560910639">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586919704980" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586832359623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585560910639" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586832359623" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585554876321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
